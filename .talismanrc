@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: anonymise/anonymise_openmrs.sql
+  checksum: 45fa83c0ca931a356cdd4592f1b3063e360773a0ca029059aa8a24506c27a4ed
+- filename: clear_openmrs/clear_openmrs.sql
+  checksum: bab6d10596eead6268083048d16e3a6fba4277204f9aada43fb92cda0fb25561
